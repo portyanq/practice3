@@ -1,0 +1,20 @@
+{
+    "title": "Наши лидеры",
+    "cardsData": [
+        {
+            "img_link": "https://htmlstream.com/unify/assets/svg/brands/google-dark.svg"
+        },
+        {
+            "img_link": "https://htmlstream.com/unify/assets/svg/brands/amazon-dark.svg"
+        },
+        {
+            "img_link": "https://htmlstream.com/unify/assets/svg/brands/forbes-dark.svg"
+        },
+        {
+            "img_link": "https://htmlstream.com/unify/assets/svg/brands/business-insider-dark.svg"
+        },
+        {
+            "img_link": "https://htmlstream.com/unify/assets/svg/brands/shopify-dark.svg"
+        }
+    ]
+}

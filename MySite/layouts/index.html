@@ -1,0 +1,9 @@
+{{ define "main" }}
+<section class="section">
+
+    {{ range first 5 .Site.RegularPages }}
+    {{ .Render "summary" }}
+    {{ end }}
+
+</section>
+{{ end }}
